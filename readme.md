@@ -30,3 +30,35 @@ https://github.com/user-attachments/assets/77df1b92-a4fd-4cdc-9724-7ed5caf2f38c
 ### Android
 https://github.com/user-attachments/assets/a55b6dc8-7d1c-4db0-b536-c36db3768940
 
+### installation instruction
+#### For App
+```
+git clone https://github.com/Pratik1968/ClothStoreApp
+```
+
+```
+cd ClothStore
+```
+
+```
+cd Ecom
+```
+```
+yarn install
+```
+
+```
+yarn expo start
+```
+#### For Server
+```
+cd server
+```
+
+```
+yarn install
+```
+
+```
+yarn start:dev
+```
