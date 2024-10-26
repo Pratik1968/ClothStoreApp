@@ -23,3 +23,10 @@ This project is a mobile application for a fashion e-commerce platform, allowing
 ### Backend (NestJS)
 - **NestJS**: A scalable Node.js framework for building efficient, reliable, and maintainable server-side applications.
 
+
+### IOS
+https://github.com/user-attachments/assets/77df1b92-a4fd-4cdc-9724-7ed5caf2f38c
+
+### Android
+https://github.com/user-attachments/assets/a55b6dc8-7d1c-4db0-b536-c36db3768940
+
